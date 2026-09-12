@@ -70,3 +70,5 @@ Demonstrates model predictions on the 30 test set samples (29 correct, 1 misclas
    git clone [https://github.com/your-username/iris-classification-ml.git](https://github.com/your-username/iris-classification-ml.git)
    cd iris-classification-ml
 
+## Streamlit App
+Run locally with: `streamlit run app.py`
