@@ -41,7 +41,7 @@ Highlights strong positive correlation between `petal length` and `petal width` 
 ### Confusion Matrix
 Demonstrates model predictions on the 30 test set samples (29 correct, 1 misclassification).
 
-![Confusion Matrix](images/iris_confusion_matrix(1).png)
+![Confusion Matrix](images/iris_confusion_matrix.png)
 
 ### Classification Metrics
 
