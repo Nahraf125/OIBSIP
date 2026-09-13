@@ -73,5 +73,6 @@ Demonstrates model predictions on the 30 test set samples (29 correct, 1 misclas
 ## Streamlit App
 Run locally with: `streamlit run app.py`
 
-🔗 [Try the app here](aapka-streamlit-link-yahan)
-https://oibsip-2tkzrz6tshdwqtvzcrc7f2.streamlit.app/
+
+## Live Demo
+🔗 [Try the app here](aapka-streamlit-link)
