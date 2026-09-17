@@ -3,7 +3,8 @@ import joblib
 import numpy as np
 
 # Load the saved model
-model = joblib.load('iris_model.pkl')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model = joblib.load(os.path.join(BASE_DIR, 'iris_model.pkl'))
 
 # Mapping numbers back to species names
 species_map = {0: "Setosa", 1: "Versicolor", 2: "Virginica"}
