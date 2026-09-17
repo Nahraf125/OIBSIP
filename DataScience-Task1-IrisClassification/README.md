@@ -66,7 +66,7 @@ Demonstrates model predictions on the 30 test set samples (29 correct, 1 misclas
 ## 🚀 Quickstart Guide
 
 1. **Clone the repository:**
-   ```bash
+   bash
    git clone [https://github.com/your-username/iris-classification-ml.git](https://github.com/your-username/iris-classification-ml.git)
    cd iris-classification-ml
 
