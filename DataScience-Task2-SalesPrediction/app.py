@@ -3,7 +3,8 @@ import joblib
 import numpy as np
 
 # Load the saved model
-model = joblib.load('sales_model.pkl')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+model = joblib.load(os.path.join(BASE_DIR, 'sales_model.pkl'))
 
 st.title("📈 Sales Prediction App")
 st.write("Enter advertising budget (in thousands of dollars) to predict expected Sales (in thousands of units).")
