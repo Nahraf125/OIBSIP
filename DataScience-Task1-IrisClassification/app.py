@@ -1,6 +1,8 @@
+import os
 import streamlit as st
 import joblib
 import numpy as np
+
 
 # Load the saved model
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
