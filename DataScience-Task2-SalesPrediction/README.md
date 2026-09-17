@@ -45,7 +45,7 @@ The "Advertising" dataset — 200 records showing advertising budget (in thousan
 ![Residual Plot](images/sales_residual_plot.png)
 
 ## Live Demo
-🔗 [Try the app here]()
+🔗 [Try the app here](https://salesprediction101.streamlit.app/)
 
 ## How to Run
 ```bash
