@@ -53,7 +53,7 @@ During manual testing with real Gmail marketing/promotional emails, the model fr
 **Conclusion:** This model performs well on SMS-style spam but would require retraining on an email-specific dataset (such as Enron-Spam or SpamAssassin) to generalize effectively to real email inboxes like Gmail.
 
 ## Live Demo
-🔗 [Try the app here](aapka-streamlit-link-yahan-daalein)
+🔗 [Try the app here](https://emailspamdetection404.streamlit.app/)
 
 ## How to Run
 ```bash
